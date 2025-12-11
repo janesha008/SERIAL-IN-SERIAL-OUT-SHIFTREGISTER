@@ -43,6 +43,7 @@ endmodule
 
 **Developed by:**
 Janesha S
+
 **RegisterNumber:**
 25018817
 
@@ -55,4 +56,5 @@ Janesha S
 <img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/ed307823-acb0-4c10-bc89-69eaed91b967" />
 
 **RESULTS**
+
 A SISO Shift Register using Verilog and validated through its functional tables is implemented successfully.
